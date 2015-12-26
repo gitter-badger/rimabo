@@ -1,5 +1,7 @@
 # Pagekit
 
+[![Join the chat at https://gitter.im/aqnouch/rimabo](https://badges.gitter.im/aqnouch/rimabo.svg)](https://gitter.im/aqnouch/rimabo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/pagekit/pagekit.svg?branch=develop)](https://travis-ci.org/pagekit/pagekit)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pagekit/pagekit)
 
